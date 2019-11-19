@@ -17,3 +17,8 @@
     "updated_at": "2019-11-12 06:08:42"
 }
 ```
+
+
+## 网页示例
+访问 index.php 效果：
+![web_demo](https://www.bubaijun.com/demo/soul/1574135297.png)
