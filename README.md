@@ -22,3 +22,15 @@
 ## 网页示例
 访问 index.php 效果：
 ![web_demo](https://www.bubaijun.com/demo/soul/1574135297.png)
+
+
+## BTW
+顺便说一下
+
+数据很大部分是采集了这两个站点：
+
+http://www.nows.fun/ （该作者也有开源毒鸡汤相关的：https://github.com/egotong/nows）
+
+https://8zt.cc/
+
+也是看到他们在 V2 上发的帖，才有采集毒鸡汤数据的想法，所以留一下他们的链接。要是能给他们带点流量就最好不过了~
