@@ -29,7 +29,7 @@
 
 数据很大部分是采集了这两个站点：
 
-http://www.nows.fun/ （该作者也有开源毒鸡汤相关的：https://github.com/egotong/nows）
+http://www.nows.fun/ 该作者也有开源毒鸡汤相关的：https://github.com/egotong/nows
 
 https://8zt.cc/
 
